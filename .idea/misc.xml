@@ -2,6 +2,16 @@
 <project version="4">
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK">
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+>>>>>>> 834e9cff05a7c0d672901f98b7abe829585c8444
+=======
+<<<<<<< HEAD
+>>>>>>> 2d739f873fc3a0b340009755be50de66e3e808be
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK">
 =======
 <<<<<<< HEAD
@@ -13,6 +23,13 @@
 =======
   <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
 >>>>>>> 834e9cff05a7c0d672901f98b7abe829585c8444
+<<<<<<< HEAD
+=======
+=======
+  <component name="ProjectRootManager">
+>>>>>>> e43045be94683176927e5704abd76d50b8ec6885
+>>>>>>> ed14a0d3ed0b42e004de9d3e6adb429a77b16059
+>>>>>>> 2d739f873fc3a0b340009755be50de66e3e808be
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
