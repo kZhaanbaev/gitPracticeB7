@@ -3,6 +3,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK">
 =======
 <<<<<<< HEAD
@@ -11,6 +12,9 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK">
 >>>>>>> a98ea4546d6f10eda78d74724bd6121f322a2533
 >>>>>>> 59ad3592bc11e2789e8a6936baf96473a428b23f
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+>>>>>>> 834e9cff05a7c0d672901f98b7abe829585c8444
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
